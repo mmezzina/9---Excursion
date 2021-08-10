@@ -22,6 +22,15 @@ h2 {
 }
 
 h3 {
-    text-align: right;
+    
+}
+
+.guide, .copyright {
+    text-align: center;
     color: #808080;
+    font-size: 21px;
+}
+
+.copyright {
+    text-align: right;
 }
